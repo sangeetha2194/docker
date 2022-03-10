@@ -1,0 +1,2 @@
+hi this is docker file
+docker is and light weight container based tool to manage multiple applications/softwares on a single stage.
